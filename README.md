@@ -1,1 +1,1 @@
-Test Dépot distant, premier fichier
+Test Dépot distant, premier fichier.
